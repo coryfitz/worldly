@@ -47,3 +47,5 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
 });
+
+//adding some comments
